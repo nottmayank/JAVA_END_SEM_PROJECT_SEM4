@@ -52,12 +52,6 @@ chmod +x build.sh
 java -jar SmartResumeAnalyzer.jar
 ```
 
-### Option 3: Using an IDE (Recommended for Students)
-1. Open **IntelliJ IDEA** or **Eclipse**
-2. Create a new Java project
-3. Copy all `.java` files from `src/` into your project
-4. Right-click `Main.java` → **Run**
-
 ---
 
 ## 🎯 How the Application Works
