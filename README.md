@@ -136,7 +136,7 @@ Kubernetes, REST APIs, and MySQL. Experience with Agile and CI/CD pipelines requ
 Knowledge of Git and cloud platforms like AWS is a plus.
 ```
 
-**Expected Result:** ~70–80% match
+**Expected Result:** ~40–60% match
 
 ---
 
